@@ -1,4 +1,5 @@
-  testing of the hyopthesis for some of the cases
+  Testing of the hypothesis for some of the cases:
+  
   I: DIAMETER OF THE CUTLET.......>(HYPOTHESIS 1)
   II: LABTAT SAMPLES RECORD......>(HYPOTHESIS 2)
   III: BUYER'S RATIO(MALES AND FEMALES).....>(HYPOTHESIS 3)
