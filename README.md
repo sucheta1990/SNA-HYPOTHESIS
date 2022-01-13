@@ -1,6 +1,9 @@
   Testing of the hypothesis for some of the cases:
   
   I: DIAMETER OF THE CUTLET.......>(HYPOTHESIS 1)
+  
   II: LABTAT SAMPLES RECORD......>(HYPOTHESIS 2)
+  
   III: BUYER'S RATIO(MALES AND FEMALES).....>(HYPOTHESIS 3)
+  
   IV: CUSTOMER ORDER FORM AROUND THE GLOBE.....>(HYPOTHESIS 4)
